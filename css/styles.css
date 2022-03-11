@@ -64,6 +64,7 @@ section {
     padding: 20px;
     backdrop-filter: blur(25px);
     transition: all 0.5s ease-in;
+    cursor: pointer;
 }
 
 .box:first-child {
@@ -92,6 +93,7 @@ section {
     justify-content: center;
     align-items: center;
     transition: all 0.5s ease-in;
+    cursor: pointer;
   }
 
   .circle1 {
